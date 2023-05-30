@@ -13,3 +13,5 @@ The main purpose of this project is to give an example how to sign and verify JW
 ```npm install```<br />
 
 ```npm start```<br />
+
+``open http://localhost:3000/``
