@@ -14,4 +14,8 @@ The main purpose of this project is to give an example how to sign and verify JW
 
 ```npm start```<br />
 
-``open http://localhost:3000/``
+```open http://localhost:3000/```<br />
+
+```open http://localhost:3000/sign_jwt to sign jwt token```<br />
+
+```post http://localhost:3000/verify_jwt to verify the token```<br />
